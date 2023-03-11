@@ -10,3 +10,28 @@ Docker adv. over VM:
 
 
 Will be run on OS application layer, Hardware -> Kernel -> OS App layer
+
+Code + Package Everthing into Artifact
+Can be easily shared and moved - Like a zip/tar/jar file
+
+Zip/Jar file will be uploaded into Artifact repositry and be downloaded to server when its needed.
+
+Docker Image:
+Artifact - Is called as image. But it has code + complete enviroment configurations. Add dir, files and etc...
+
+Contains: Application (JS App), Other Services(npm, node),  OS Layer(Linux)
+
+Immuatble template that defines how a container will be realized.
+
+
+Docker Container: 
+Actually start the application
+
+Running an instance of an image. That's when the container environment will be created.
+
+One image -> But can run in multiple containers(multiple images running simultaneously) to improve the performance.
+
+
+
+
+
