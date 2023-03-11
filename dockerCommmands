@@ -1,0 +1,12 @@
+Docker:  Virtualization Software
+
+Docker -> Builded for linux based sys. But Docker desktop got introduced for Windows and Mac OS.
+
+Docker vs VM: https://www.docker.com/resources/what-container/
+
+Docker adv. over VM:
+1. Will take less disk space
+2. Very fast to start
+
+
+Will be run on OS application layer, Hardware -> Kernel -> OS App layer
